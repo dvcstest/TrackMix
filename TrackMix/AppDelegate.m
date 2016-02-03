@@ -15,7 +15,7 @@
 
 //@synthesize window = _window;
 
-// test12r
+// test12rr
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
