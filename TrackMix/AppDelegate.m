@@ -15,6 +15,8 @@
 
 //@synthesize window = _window;
 
+// test
+
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
     trackController = [[TrackController alloc] init];
