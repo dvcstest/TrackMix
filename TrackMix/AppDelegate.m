@@ -13,7 +13,7 @@ za
 ad
 @implementation AppDelegate
 
-//@synthesize window = _window;
+//@synthesize windoaw = _window;
 
 // test12rr
 
