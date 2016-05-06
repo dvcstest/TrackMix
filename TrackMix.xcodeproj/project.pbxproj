@@ -37,7 +37,6 @@
 		896C9B3315225C0C009EFF92 /* Track.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Track.m; sourceTree = "<group>"; };
 		896C9B35152261AC009EFF92 /* TrackController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrackController.h; sourceTree = "<group>"; };
 		896C9B36152261AC009EFF92 /* TrackController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TrackController.m; sourceTree = "<group>"; };
-		91E06D921CD15F4D0013A2A8 /* AppDelegate 2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AppDelegate 2.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,7 +90,6 @@
 		896C9B1B15224F9A009EFF92 /* TrackMix */ = {
 			isa = PBXGroup;
 			children = (
-				91E06D921CD15F4D0013A2A8 /* AppDelegate 2.h */,
 				896C9B2715224F9A009EFF92 /* AppDelegate.h */,
 				896C9B2815224F9A009EFF92 /* AppDelegate.m */,
 				896C9B2A15224F9B009EFF92 /* MainMenu.xib */,
