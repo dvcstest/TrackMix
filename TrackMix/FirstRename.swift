@@ -11,3 +11,5 @@ import Foundation
 // This is just a test
 
 // Make a new comment as a change to this file.
+
+var r = 0
