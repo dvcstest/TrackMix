@@ -16,6 +16,7 @@
 		896C9B2C15224F9B009EFF92 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 896C9B2A15224F9B009EFF92 /* MainMenu.xib */; };
 		896C9B3415225C0C009EFF92 /* Track.m in Sources */ = {isa = PBXBuildFile; fileRef = 896C9B3315225C0C009EFF92 /* Track.m */; };
 		896C9B37152261AD009EFF92 /* TrackController.m in Sources */ = {isa = PBXBuildFile; fileRef = 896C9B36152261AC009EFF92 /* TrackController.m */; };
+		9177F80E1CF4BC3500A6D58E /* NewExampleFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9177F80D1CF4BC3500A6D58E /* NewExampleFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		896C9B3315225C0C009EFF92 /* Track.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Track.m; sourceTree = "<group>"; };
 		896C9B35152261AC009EFF92 /* TrackController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrackController.h; sourceTree = "<group>"; };
 		896C9B36152261AC009EFF92 /* TrackController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TrackController.m; sourceTree = "<group>"; };
+		9177F80D1CF4BC3500A6D58E /* NewExampleFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewExampleFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				896C9B35152261AC009EFF92 /* TrackController.h */,
 				896C9B36152261AC009EFF92 /* TrackController.m */,
 				894DD926153E042E009C3AB6 /* MainWindow.xib */,
+				9177F80D1CF4BC3500A6D58E /* NewExampleFile.swift */,
 			);
 			path = TrackMix;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 				LastUpgradeCheck = 0420;
 				TargetAttributes = {
 					896C9B1015224F9A009EFF92 = {
+						LastSwiftMigration = 0800;
 						LastSwiftUpdateCheck = 0800;
 						ProvisioningStyle = Manual;
 					};
@@ -185,6 +189,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9177F80E1CF4BC3500A6D58E /* NewExampleFile.swift in Sources */,
 				896C9B2215224F9A009EFF92 /* main.m in Sources */,
 				896C9B2915224F9A009EFF92 /* AppDelegate.m in Sources */,
 				896C9B3415225C0C009EFF92 /* Track.m in Sources */,
