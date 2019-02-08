@@ -282,8 +282,10 @@
 				GCC_PREFIX_HEADER = "TrackMix/TrackMix-Prefix.pch";
 				INFOPLIST_FILE = "TrackMix/TrackMix-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -296,7 +298,9 @@
 				GCC_PREFIX_HEADER = "TrackMix/TrackMix-Prefix.pch";
 				INFOPLIST_FILE = "TrackMix/TrackMix-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
